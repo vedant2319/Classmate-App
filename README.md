@@ -1,0 +1,1 @@
+The Folder named classmate contains all the files required to run the app on Android studio. Just simply download it and open the folder in Andriod studio make sure you have installed all the required extensions or SDKs to run the project. Thank You
